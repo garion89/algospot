@@ -1,12 +1,12 @@
 /*
-input
+INPUT
 4
 w
 xbwwb
 xbwxwbbwb
 xxwwwbxwxwbbbwwxxxwwbbbwwwwbb
 
-output
+OUTPUT
 w
 xwbbw
 xxbwwbbbw
