@@ -1,7 +1,5 @@
 .idea
 META-INF
 out
-src/Sample.java
-src/Test.java
-comment/Sample.md
-Algorithm.iml
+*.iml
+input.txt
